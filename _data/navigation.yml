@@ -10,8 +10,8 @@
   url: "/graphics/"
   side: left
 
-- title: "Alex"
-  url: "/alex/"
+- title: "主机进程"
+  url: "/process/"
   side: left
 
 - title: "简历"
