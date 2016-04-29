@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "杂文"
+title: "Alex"
 permalink: "/alex/"
 ---
 {% include list-posts.html category='alex' %}
