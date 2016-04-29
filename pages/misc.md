@@ -2,6 +2,6 @@
 layout: page
 show_meta: false
 title: "杂文"
-permalink: "/misc/"
+permalink: "/alex/"
 ---
-{% include list-posts.html category='misc' %}
+{% include list-posts.html category='alex' %}
