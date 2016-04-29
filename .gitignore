@@ -1,5 +1,2 @@
-_site
-.sass-cache
-.idea
-resumecard.iml
-/*.iml
+/_site
+/.sass-cache
