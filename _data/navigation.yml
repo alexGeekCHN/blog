@@ -2,18 +2,7 @@
   url: "/"
   side: left
 
-- title: "RapidJSON"
-  url: "/rapidjson/"
-  side: left
-
-- title: "计算机图形学"
-  url: "/graphics/"
-  side: left
-
 - title: "主机进程"
   url: "/process/"
   side: left
 
-- title: "简历"
-  url: "/cv/"
-  side: right
